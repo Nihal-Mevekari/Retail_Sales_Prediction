@@ -1,4 +1,4 @@
-**Problem Statement**
+**Problem Statement** \
 We are trying to predict the Sales as per store id. This is a pure regression problem.
 
 
@@ -10,6 +10,6 @@ We are trying to predict the Sales as per store id. This is a pure regression pr
 **About Datasets**
 1. You are provided with historical sales data for 1,115 XYZ stores. The task is to forecast the "Sales" column for the test set. 
 2. Note that some stores in the dataset were temporarily closed for refurbishment.
-3. We have two datasets.
+3. We have two datasets. \
    Sales data - Columns - 9,  Rows - 1017210
    Stores data - Columns - 10, Rows - 1115
