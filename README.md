@@ -17,19 +17,19 @@ We are trying to predict the Sales as per store id. This is a pure regression pr
 Using machine learning techniques, I've developed a model to predict retail sales using Sales and Stores data. Based on different parameters, stores can take necessary steps to enhance/boost
 their sales.
 
-### Highlights: \
+### Highlights:
 🔹 Comprehensive dataset analysis \
 🔹 High R2 score \
 🔹 Detailed evaluation metrics and visualizations 
 
-### Technologies Used: \
+### Technologies Used:
 💻 Python \
 📊 Pandas & NumPy for data manipulation \
 📈 Scikit-learn for model building \
 📉 Matplotlib & Seaborn for data visualization \
 🔍 Jupyter Notebook for interactive development \
 
-### Key Tasks: \
+### Key Tasks:
 📂 Data cleaning and preprocessing \
 🔍 Exploratory data analysis \
 🔄 Feature engineering \
